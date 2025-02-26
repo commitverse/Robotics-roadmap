@@ -21,6 +21,7 @@ This structured roadmap will take you through AI-Driven Robotics, Embedded Syste
 
 This structured roadmap is designed to be completed within **12-18 months**, depending on your learning pace, project involvement, and hands-on practice. Each phase provides a balanced mix of theory, practical applications, and real-world robotics case studies, ensuring you gain industry-ready skills.  
 
+---
 
 ## Phase 0: AI Concepts for Robotics  
 
@@ -30,6 +31,7 @@ You will explore how AI models like **LLMs, RL models, and CNNs** power robotics
 
 ### 📌 https://github.com/commitverse/Ai-roadmap 
 This repository provides a structured AI learning path, covering what to learn and how long each topic takes to master.  
+
 
 
 ## Phase 1: Programming for Robotics  
@@ -50,6 +52,7 @@ Programming is the foundation of robotics, allowing you to control, automate, an
 
 #### Case Study:  
 Python-based **robotic process automation (RPA)**.  
+
 
 
 ## Phase 2: Mathematics for Robotics  
@@ -73,6 +76,7 @@ You'll also apply these concepts to real-world scenarios like **autonomous vehic
 How **Tesla’s autopilot system** uses control theory.  
 
 
+
 ## Phase 3: Robotics Hardware & Embedded Systems  
 
 This phase covers the **physical components** of robots, including **microcontrollers, sensors, actuators, and PCB design**. Understanding hardware is essential for building and integrating robotic systems, from simple robotic arms to complex autonomous robots.  
@@ -94,6 +98,7 @@ This phase covers the **physical components** of robots, including **microcontro
 - **Jetson Nano**  
 
 
+
 ## Phase 4: Robot Operating System (ROS)  
 
 Robot Operating System (**ROS**) is a crucial framework for developing, simulating, and controlling robotic systems. This phase focuses on **ROS fundamentals**, robotic simulation with **Gazebo**, and implementing real-world **robot control**.  
@@ -108,6 +113,7 @@ Robot Operating System (**ROS**) is a crucial framework for developing, simulati
 ### 💡 Projects:  
 - **Simulate a mobile robot** in Gazebo.  
 - **Create a basic robotic arm control** with ROS.  
+
 
 
 ## Phase 5: Perception & Computer Vision  
@@ -125,6 +131,7 @@ Robots rely on **vision and perception** to understand their environment. This p
 - Develop a **visual SLAM system** for navigation.  
 
 
+
 ## Phase 6: Motion Planning & Navigation  
 
 Motion planning is crucial for robots to **move efficiently and avoid obstacles**. This phase explores **path planning algorithms, localization techniques, and obstacle avoidance strategies** used in self-driving cars and mobile robots.  
@@ -140,6 +147,7 @@ Motion planning is crucial for robots to **move efficiently and avoid obstacles*
 - Implement **A* and RRT path planning algorithms**.  
 
 
+
 ## Phase 7: Advanced AI & Reinforcement Learning for Robotics  
 
 This phase focuses on **cutting-edge AI techniques** that enable robots to **learn from interactions** and improve their performance through **reinforcement learning and deep learning**.  
@@ -153,6 +161,7 @@ This phase focuses on **cutting-edge AI techniques** that enable robots to **lea
 ### 💡 Projects:  
 - Train an **AI-powered robotic hand**.  
 - Develop an **autonomous driving AI**.  
+
 
 
 ## Phase 8: Cloud Robotics & Edge Computing  
@@ -172,6 +181,7 @@ Cloud computing and edge AI are transforming robotics by **enabling real-time pr
 - **Case Study:** How warehouse robots use cloud-based AI.  
 
 
+
 ## Phase 9: Cybersecurity in Robotics  
 
 As robots become more **autonomous and connected**, cybersecurity is vital. This phase explores **secure robot communication, AI ethics, and countermeasures against cyber threats** in robotic systems.  
@@ -189,6 +199,7 @@ As robots become more **autonomous and connected**, cybersecurity is vital. This
 - **Case Study:** How cybersecurity protects self-driving cars.  
 
 
+
 ## Phase 10: Building a Full-Scale Humanoid Robot  
 
 The ultimate challenge: **building a humanoid robot**! This phase integrates everything you've learned, from **mechanics and AI to HRI (Human-Robot Interaction)**, to design a **full-scale humanoid** with intelligent capabilities.  
@@ -203,7 +214,7 @@ The ultimate challenge: **building a humanoid robot**! This phase integrates eve
 **Case Study:** Boston Dynamics' humanoid robot development.  
 
 
-# Build, Innovate, and Lead!  
+## Build, Innovate, and Lead!  
 
 Robotics is transforming industries, from **AI-powered automation** to **humanoid development**. Whether you're a **beginner** or an **expert**, mastering robotics requires: **Hands-on projects**, **Real-world problem-solving**, **Continuous learning & research**  
 
