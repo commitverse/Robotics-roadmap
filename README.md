@@ -136,7 +136,7 @@ Motion planning is crucial for robots to **move efficiently and avoid obstacles*
 - **Autonomous Navigation** - Udacity  
 
 ### 💡 Projects:  
-- Develop an **obstacle avoidance system** using LiDAR.  
+- Develop an **obstacle avoidance system** using LiDAR. 
 - Implement **A* and RRT path planning algorithms**.  
 
 
